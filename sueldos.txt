@@ -1,0 +1,2 @@
+ DNI del empleado 1: 32000032G , y su sueldo: 245000
+ DNI del empleado 2: 32000031R , y su sueldo: 55000

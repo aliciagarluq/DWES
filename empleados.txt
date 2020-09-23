@@ -1,0 +1,2 @@
+nombre: James Cosling DNI: 32000032G Sexo: M Categoria: 9 Anyos Trabajados 7
+nombre: Ada Lovelace DNI: 32000031R Sexo: F Categoria: 1 Anyos Trabajados 1
